@@ -3,7 +3,7 @@
 </div>
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 What I'm studying 📚 </h2> <br> 
-    <p>매일 프로그래밍 문제 풀이를 아래 티스토리에 업로드하고 있어요!</p>
+    <p> 👨‍💻 매일 프로그래밍 문제 풀이를 아래 티스토리에 업로드하고 있어요! 👨‍💻 </p>
     <div align= "left"> 
         <a href="https://jyzinn.tistory.com/"> 
             <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jyzinn.tistory.com/"> 
