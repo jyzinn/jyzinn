@@ -15,6 +15,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://jyzinn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jyzinn.tistory.com/"> </a>
          <a href=mailto:yoojinjeon97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yoojinjeon97@gmail.com"> </a>
+    <img src="https://github-readme-tistory-card.vercel.app/api?name=jyzinn&theme=default">
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
