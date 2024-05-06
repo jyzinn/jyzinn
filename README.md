@@ -2,12 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=004d21&height=120&text=&animation=fadeIn&fontColor=39604a&fontSize=70" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ What I'm studying </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           </div>
     <img src="http://mazandi.herokuapp.com/api?handle=eod460&theme=cold"/>
+    <br>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=eod460">
     </div>
     <div align= "center">
