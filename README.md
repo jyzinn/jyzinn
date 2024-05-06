@@ -15,3 +15,4 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={jyzinn}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
