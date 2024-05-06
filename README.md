@@ -14,5 +14,5 @@
          <a href=mailto:yoojinjeon97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yoojinjeon97@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
+        ![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={jyzinn}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
     </div>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={jyzinn}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
