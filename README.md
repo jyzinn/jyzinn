@@ -1,8 +1,8 @@
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=004d21&height=120&text=&animation=fadeIn&fontColor=39604a&fontSize=70" />
     </div>
-    <div align= "lef">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 What I'm studying 📚</h2> <br> 
+    <div align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 What I'm studying 📚 </h2> <br> 
     <img src="http://mazandi.herokuapp.com/api?handle=eod460&theme=cold"/>
     <br>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=eod460">
