@@ -13,6 +13,6 @@
     <div align= "center"> <a href=https://jyzinn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jyzinn.tistory.com/"> </a>
          <a href=mailto:yoojinjeon97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yoojinjeon97@gmail.com"> </a>
           </div>  <br> 
+    [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
     <div align= "center">  </div> 
     </div>
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jyzinn&postId=12)
