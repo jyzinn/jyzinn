@@ -17,4 +17,4 @@
     </div>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=eod460&theme=cold)
 <img src="http://mazandi.herokuapp.com/api?handle=eod460&theme=cold"/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eod460)](https://solved.ac/eod460)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eod460)](https://solved.ac/eod460)
