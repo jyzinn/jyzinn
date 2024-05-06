@@ -3,6 +3,7 @@
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 What I'm studying 📚 </h2> <br> 
+    <div align= "left"> <a href=https://jyzinn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jyzinn.tistory.com/"> </a>
     <img src="http://mazandi.herokuapp.com/api?handle=eod460&theme=cold"/>
     <br>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=eod460">
