@@ -9,8 +9,6 @@
             <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jyzinn.tistory.com/"> 
         </a>
         <br>
-        <img src="http://mazandi.herokuapp.com/api?handle=eod460&theme=cold"/>
-        <br>
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=eod460">
         <div style="margin: ; text-align: left;" "text-align: left;"> 
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
